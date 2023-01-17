@@ -1,0 +1,13 @@
+{ 
+Principy algoritmů:
+- Hromadnost
+- Determinovanost
+- Koneènost
+- Rezultativnost
+}
+
+začátek
+  čti(a);        // Hromadnost
+  napiš(a + 3);  // Rezultativnost
+konec.
+
